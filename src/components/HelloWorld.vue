@@ -62,7 +62,7 @@ const count = ref(0)
           <!-- Imagen de gatos -->
               <img src="https://buzos.com.mx/storage/public/fotogaleria/noticias/2024-08-08/NncgcyFt0C.webp" class="card-img-top" alt="Gatos"  width="350px" height="180px">
           <div class="card-body text-center">
-            <!-- Decripción de la población de los perros -->
+            <!-- Decripción de la población de los gatos -->
               <p class="card-text">En 2017, la población mundial estimada de gatos estaba en seiscientos millones de felinos.</p>
              <!-- Botón de "Más información" -->
               <button class=" btn btn-warning">Más información</button>
